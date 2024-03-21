@@ -85,7 +85,7 @@ buttons = [
     
     [
         InlineKeyboardButton(
-            text="🌺•─╼⃝𖠁𝐀𝙳𝙳 ◈ 𝐌𝙴 ◈ 𝐁𝙰𝙱𝚈𖠁⃝╾─•🌺",
+            text="ᴀᴅᴅ ᴍᴇ",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
