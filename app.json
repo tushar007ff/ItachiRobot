@@ -73,7 +73,7 @@
        "required": true,
        "value": ""
     },
-    "START_IMG": {
+    "START_VID": {
        "description": "Telegraph link of the image which will be shown at start command.",
        "required": true,
        "value": ""
