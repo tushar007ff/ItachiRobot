@@ -26,7 +26,7 @@ from telegram.ext.dispatcher import DispatcherHandlerStop
 from telegram.utils.helpers import escape_markdown
 from telethon import __version__ as tlhver
 
-import DazaiRobot.modules.sql.users_sql as sql
+import Itachirobot.modules.sql.users_sql as sql
 from DazaiRobot import (
     BOT_NAME,
     BOT_USERNAME,
